@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi folks 👋
+
+🌱 I’m currently learning ... just ask me! 😄
 
 <!--
 **dyshimizu/dyshimizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
